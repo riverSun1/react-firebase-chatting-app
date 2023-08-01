@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-firebase-chatting-app/static/css/main.14b3b162.css",
+    "main.js": "/react-firebase-chatting-app/static/js/main.d36e3561.js",
+    "static/js/787.6bf1b952.chunk.js": "/react-firebase-chatting-app/static/js/787.6bf1b952.chunk.js",
+    "index.html": "/react-firebase-chatting-app/index.html",
+    "main.14b3b162.css.map": "/react-firebase-chatting-app/static/css/main.14b3b162.css.map",
+    "main.d36e3561.js.map": "/react-firebase-chatting-app/static/js/main.d36e3561.js.map",
+    "787.6bf1b952.chunk.js.map": "/react-firebase-chatting-app/static/js/787.6bf1b952.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14b3b162.css",
+    "static/js/main.d36e3561.js"
+  ]
+}
