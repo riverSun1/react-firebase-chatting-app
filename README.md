@@ -1,2 +1,5 @@
 ## Chat applications using React and Firebase
- https://riversun1.github.io/react-firebase-chatting-app/
+* **Test account<br>**
+`ID: test@gmail.com`<br>
+`PW: 123456`<br>
+https://riversun1.github.io/react-firebase-chatting-app/
